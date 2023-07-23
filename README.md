@@ -5,4 +5,4 @@ The game will be better with updates
 
 Support Me: https://www.buymeacoffee.com/cann66dev
 
-![image](https://github.com/cann66dev/bolidegame/assets/49042417/7d037adf-70d9-49a4-aa6f-7602cdba5866)
+![image](https://github.com/cann66dev/bolidegame/assets/49042417/3b9c81a0-36bc-4efe-8330-3c7787a8e708)
